@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "j",
+      "email": "",
+      "password": ""
+    },
+    {
+      "name": "pooja",
+      "email": "pooja@123gmail.com",
+      "password": "pooja",
+      "id": 2
+    },
+    {
+      "name": "pooja",
+      "email": "pooja@123gmail.com",
+      "password": "pooja",
+      "id": 3
+    },
+    {
+      "name": "pooja",
+      "email": "pooja@123gmail.com",
+      "password": "pooja",
+      "id": 4
+    },
+    {
+      "name": "rahul",
+      "email": "pooja@123gmail.com",
+      "password": "pooja",
+      "id": 5
+    },
+    {
+      "name": "rahul",
+      "email": "pooja@123gmail.com",
+      "password": "pooja",
+      "id": 6
+    },
+    {
+      "name": "pooja",
+      "email": "anshika@123gmail.com",
+      "password": "poojs",
+      "id": 7
+    }
+  ]
+}
