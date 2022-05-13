@@ -1,10 +1,9 @@
 import React from "react";
 import { useSelector } from "react-redux";
-//import { useNavigate } from "react-router-dom";
-function AllData() {
-  //const navigate = useNavigate();
+
+function View() {
   const res = useSelector((state) => state.handle.register);
-  console.log(res, "hello");
+  console.log(res, "ppppppp");
   return (
     <>
       <p> show Data</p>
@@ -12,11 +11,7 @@ function AllData() {
       <p> {res.lastname}</p>
       <p> {res.email}</p>
       <p> {res.password}</p>
-
-      {/* <button type="click" onClick={() => navigate("viewdata")}>
-        view Data
-      </button> */}
     </>
   );
 }
-export default AllData;
+export default View;

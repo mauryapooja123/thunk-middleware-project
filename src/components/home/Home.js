@@ -7,6 +7,7 @@ function Home() {
   const navigate = useNavigate();
   const count = useSelector((state) => state.counter.value);
   const dispatch = useDispatch();
+
   return (
     <div className="App">
       <p>Increment and Decrement counter</p>
